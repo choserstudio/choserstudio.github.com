@@ -4,6 +4,7 @@ ul, ol {margin: 0;}
 p {
 	margin: 0;
 	font-family: "Microsoft YaHei UI Light";
+	font-size: 36px;
 }
 html, body{
   font-family: 'Roboto Slab', serif;
