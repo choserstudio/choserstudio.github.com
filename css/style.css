@@ -78,7 +78,7 @@ span.menu {
 	font-family: "Microsoft YaHei UI Light";
 }
 .bwn{
-	margin-top:3em;
+	margin-top: 3em;
 }
 .bwn a {
 	font-size: 25px;
@@ -91,13 +91,12 @@ span.menu {
 	cursor: pointer;
 }
 .bwn a:hover{
-	color:#fff;
-	text-decoration:none;
+	color: #fff;
 	background: rgb(169, 77, 77);
 	transition: 0.5s all;
- -webkit-transition: 0.5s all;
- -moz-transition:  0.5s all;
- -o-transition:  0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
 }
 /*--banner style end here--*/
 /*--below start here--*/
@@ -211,13 +210,13 @@ form {
 	padding:0px;
 }
 .below-right{
-	background:url(../images/leaf.jpg)no-repeat;
-	min-height:610px;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-o-background-size:cover;
-	-moz-background-size:cover;
-	-ms-background-size:cover;
+	min-height: 610px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	background-image: url(../images/leaf.jpg);
 }
 .bg p {
 	padding-top: 16px;
