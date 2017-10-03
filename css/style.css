@@ -56,6 +56,7 @@ span.menu {
 .banner{
 	background:url(../images/banner.jpg);
 	min-height:550px;
+	background-position:center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
